@@ -36,7 +36,7 @@ public class LambdaBasics {
 	@FunctionalInterface
 	interface AddNum
 	{
-		int operation(int c, int d);
+		int operation(int gg, int dd);
 	}
 
 }
