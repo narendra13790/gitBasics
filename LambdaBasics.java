@@ -3,9 +3,9 @@ package lambdaExpression;
 public class LambdaBasics {
 	
 	
-	public int addNum(int a , int b)
+	public int addNum(int aa , int bb)
 	{
-		return a+b;
+		return aa+bb;
 	}
 	
 	
